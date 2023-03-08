@@ -36,3 +36,41 @@
     transform: rotate(360deg);
   }
 }
+/* Css here */
+.input-text{
+  margin: 16px;
+  padding: 12px;
+  width: 60%;
+  font-size: 19px;
+  border-radius: 10px;
+ 
+  border: 6px solid #0063;
+
+  
+}
+.input-textarea{
+  margin: 16px;
+  padding: 12px;
+  font-size: 20px;
+  width: 60%;
+  border-radius: 10px;
+ 
+  border: 6px solid #0063;
+
+}
+.Addbtn{
+  
+  padding: 14px;
+  font-size: 15px;
+  margin: 0px;
+  border-radius: 10px;
+  background-color: #0bc9fe;
+cursor: pointer;
+  border: 2px solid #0063;
+  
+}
+.Addbtn:hover{
+  background-color: #59828d;
+
+
+}
